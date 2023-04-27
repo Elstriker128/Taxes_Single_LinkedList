@@ -1,0 +1,8 @@
+﻿The interfaces are needed to restict other objects from using the LinkedList, because only those classes which have 
+implemented the interfaces inside them can use the LinkedList. The where keyword helps with this. 
+
+To Do:
+1. Create tests for construcctors - Done;
+2. Write comments - Done;
+3. Make a report - Done;
+4. Class diagram - Done;

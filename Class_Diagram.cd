@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Taxes.InOutUtils">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAIAAAAQAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAA=</HashCode>
+      <FileName>InOutUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Taxes.LinkList&lt;Type&gt;">
+    <Position X="4" Y="0.5" Width="1.75" />
+    <NestedTypes>
+      <Class Name="Taxes.LinkList&lt;Type&gt;.Node&lt;type&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LinkList.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgIAAAAAgAAAABBAAAAQBAQAgAAAEAAEAAAAAAEAAgA=</HashCode>
+      <FileName>LinkList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Taxes.Person">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAQEgACAAgAAAABAAICCIAAAAAAAByA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.117" />
+  </Class>
+  <Class Name="Taxes.TaskUtils">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAAEAAAAAAAAAAABAggAAAAAAAAAAEAAAQAAACAAAA=</HashCode>
+      <FileName>TaskUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Taxes.Tax">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEgACAAgAAAAAAAIAAAAAAIABADyA=</HashCode>
+      <FileName>Tax.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Taxes.UIForClient">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAgEAAgAEAAAAAAQBgAIAAQYAAQAAEgAAQAAgE=</HashCode>
+      <FileName>UIForClient.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

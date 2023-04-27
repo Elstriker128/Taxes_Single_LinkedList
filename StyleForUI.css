@@ -1,0 +1,55 @@
+﻿body {
+    background-image: url('App_Themes/image.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+div {
+    display: grid;
+    place-items: center;
+}
+
+.center {
+    margin: auto;
+    text-align: center;
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+table {
+    margin: auto;
+    text-align: center;
+    overflow: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: chocolate;
+    color: white;
+    border-color: black;
+    border-width: 1px;
+}
+
+.textBox {
+    border-radius: 7%;
+    background-color: chocolate;
+    border: 0.5px solid #ffffff;
+    color: white;
+}
+
+.lab {
+    font-size: 20px;
+    font: bolder;
+    background-color: chocolate;
+    border: solid black 1px;
+}
+
+button {
+    background-color: aquamarine;
+    border-radius: 7%;
+    margin: 50px;
+    overflow: auto;
+}
